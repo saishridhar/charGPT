@@ -1,2 +1,2 @@
 # charGPT
-A character level generative model which is pre-trained on shakespeare.
+A character level generative model which pre-trained on shakespeare.
